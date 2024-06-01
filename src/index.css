@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Roca Regular";
+    src: url("/fonts/Roca.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Proxima Nova Regular";
+    src: url("/fonts/Nova.otf") format('opentype');
+}
+@font-face {
+    font-family: "PingFang SC";
+    src: url("/fonts/PingFang.ttf") format('truetype');
+}
